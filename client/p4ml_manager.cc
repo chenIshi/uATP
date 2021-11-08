@@ -325,7 +325,6 @@ void P4mlManager::main_receive_packet_loop(DMAcontext* dma_context,
                         } else {
                             //ignore it.
                         }
-
                     }
                 }
 

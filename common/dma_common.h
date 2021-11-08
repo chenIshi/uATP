@@ -25,8 +25,8 @@
 #define ENTRY_SIZE 256 /* maximum size of each buffer */
 #define PORT_NUM 1
 
-#define DEBUG_PRINT_ALL_SENDING_PACKET false
-#define DEBUG_PRINT_ALL_RECEIVING_PACKET false
+#define DEBUG_PRINT_ALL_SENDING_PACKET true
+#define DEBUG_PRINT_ALL_RECEIVING_PACKET true
 
 #define DEBUG_CHECK_SEND_RECEIVE_TOTAL false
 
